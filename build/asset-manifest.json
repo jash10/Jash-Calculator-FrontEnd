@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JashCalculator/static/css/main.50851dd4.chunk.css",
+    "main.js": "/JashCalculator/static/js/main.7749946c.chunk.js",
+    "main.js.map": "/JashCalculator/static/js/main.7749946c.chunk.js.map",
+    "runtime-main.js": "/JashCalculator/static/js/runtime-main.cc886dc8.js",
+    "runtime-main.js.map": "/JashCalculator/static/js/runtime-main.cc886dc8.js.map",
+    "static/js/2.e44fc488.chunk.js": "/JashCalculator/static/js/2.e44fc488.chunk.js",
+    "static/js/2.e44fc488.chunk.js.map": "/JashCalculator/static/js/2.e44fc488.chunk.js.map",
+    "static/js/3.dc3cec5c.chunk.js": "/JashCalculator/static/js/3.dc3cec5c.chunk.js",
+    "static/js/3.dc3cec5c.chunk.js.map": "/JashCalculator/static/js/3.dc3cec5c.chunk.js.map",
+    "index.html": "/JashCalculator/index.html",
+    "static/css/main.50851dd4.chunk.css.map": "/JashCalculator/static/css/main.50851dd4.chunk.css.map",
+    "static/js/2.e44fc488.chunk.js.LICENSE.txt": "/JashCalculator/static/js/2.e44fc488.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc886dc8.js",
+    "static/js/2.e44fc488.chunk.js",
+    "static/css/main.50851dd4.chunk.css",
+    "static/js/main.7749946c.chunk.js"
+  ]
+}
