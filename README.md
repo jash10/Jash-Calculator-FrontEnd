@@ -71,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # JashCalculator
 
 
-mysql://b5c8011f279e3d:c48d03e0@us-cdbr-east-03.cleardb.com/heroku_a027bbcdec1e054?reconnect=true
